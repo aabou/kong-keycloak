@@ -10,5 +10,7 @@ $ docker-compose up -d kong
 
 $ docker-compose up -d keycloak-db
 
+$ docker-compose up -d keycloak
+
 $ docker-compose ps
 
